@@ -1,1 +1,2 @@
 # dailyblog
+- add contents
